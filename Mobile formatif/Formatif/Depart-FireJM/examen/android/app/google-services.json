@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244758505186",
+    "project_id": "examendefeu",
+    "storage_bucket": "examendefeu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244758505186:android:176ee88fd2d48bc48da0bb",
+        "android_client_info": {
+          "package_name": "cem.examendefeu.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244758505186-jd77sc4urc0ob4gt6drm9mtrc82hc9u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cem.examendefeu.examen",
+            "certificate_hash": "2d45f3a2aa33a723d563c6bbd9571ef232d81141"
+          }
+        },
+        {
+          "client_id": "244758505186-br4nlvu7j73h7htemg325hgprkfqup3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHFiKwl887bv8DoPrAnFkCTQ42_y-Gus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244758505186-br4nlvu7j73h7htemg325hgprkfqup3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
